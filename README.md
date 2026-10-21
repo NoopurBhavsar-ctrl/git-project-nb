@@ -10,5 +10,8 @@ I am a student at Upgrad , currently learning Git and Github.
 - Basic Git
 
 ## Projects
-- <project name>: one line about it
-- <project name>: one line about it 
+- git-lab-nb: This contains introduction of me.
+- git-lab-nb: This contains introduction of me.
+
+## Social Links
+-Github:
