@@ -8,3 +8,7 @@ I am a student at Upgrad , currently learning Git and Github.
 - Communication
 - Problem solving 
 - Basic Git
+
+## Projects
+- <project name>: one line about it
+- <project name>: one line about it 
