@@ -14,4 +14,5 @@ I am a student at Upgrad , currently learning Git and Github.
 - git-lab-nb: This contains introduction of me.
 
 ## Social Links
--Github:
+- Github: https://github.com/NoopurBhavsar-ctrl
+- LinkedIn: https://www.linkedin.com/in/noopur-bhavsar-tech
