@@ -16,3 +16,6 @@ I am a student at Upgrad , currently learning Git and Github.
 ## Social Links
 - Github: https://github.com/NoopurBhavsar-ctrl
 - LinkedIn: https://www.linkedin.com/in/noopur-bhavsar-tech
+
+## Contact
+- Email: bhavsarnoopur802@gmail.com
